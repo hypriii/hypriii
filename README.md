@@ -19,7 +19,9 @@ more info on my carrd
 
 **fake github pages error**
 its https://hypriii.github.io/tutorial.mp4
+
 where it looks like it doesnt exist. but if you see, the link is hypriii.github.io/tutorial.mp4.**html**
+
 the link was supposed to redirect to a jumpscare but i made it to redirect it to youareanidiot
 
 # gh stats
@@ -34,8 +36,8 @@ the link was supposed to redirect to a jumpscare but i made it to redirect it to
 [![Discord Presence](https://lanyard.cnrad.dev/api/1251097782580940917)](https://discord.com/users/1251097782580940917) 
 # 
 
-[![](https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=Bluesky&logoColor=white)](https://is.gd/SN8ycz) [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://is.gd/x72uio) [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/tidalwavebyoni) [![](https://img.shields.io/badge/Carrd-3B467F?style=for-the-badge&logo=Carrd&logoColor=white)](https://hypriii.github.io/aboutme) [![](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=Roblox&logoColor=white)](https://is.gd/1qjYl0) [![](https://img.shields.io/badge/Website-FFFFF?style=for-the-badge&logo=&logoColor=white)](https://hypriii.github.io) [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/hyprii/) [![](https://img.shields.io/badge/Straw.Page-FF0000?style=for-the-badge&logo=strawpage&logoColor=white)](https://hyprixsinfo.straw.page)
+[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/tidalwavebyoni) [![](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=Roblox&logoColor=white)](https://is.gd/1qjYl0) [![](https://img.shields.io/badge/Website-FFFFF?style=for-the-badge&logo=&logoColor=white)](https://hypriii.github.io) [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/hyprii/) [![](https://img.shields.io/badge/Straw.Page-FF0000?style=for-the-badge&logo=strawpage&logoColor=white)](https://hyprixsinfo.straw.page)
 
 #
 
-                             made with love by @hypriii
+                                                            made with love by @hypriii
